@@ -1,0 +1,15 @@
+{
+  "name": "marsad-website-content-seo-ai",
+  "description": "Research, write or audit commercial website pages for SEO, AI search and conversion.",
+  "owner": {
+    "name": "Marsad Labs",
+    "url": "https://labs.marsadgroup.co"
+  },
+  "plugins": [
+    {
+      "name": "website-content-seo-ai",
+      "source": "./",
+      "description": "Research, write or audit commercial website pages for SEO, AI search and conversion."
+    }
+  ]
+}

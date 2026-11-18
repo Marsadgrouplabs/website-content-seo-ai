@@ -1,0 +1,14 @@
+interface:
+  display_name: Website Content SEO & AI
+  short_description: Research and write high-converting web pages
+  default_prompt: Use $website-content-seo-ai to research and write a complete SEO
+    and AI-ready commercial webpage.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
